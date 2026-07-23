@@ -91,11 +91,11 @@ Deletion means removing an element from the array. After deletion, the remaining
 Time Complexity: O(n)
 
 **COMMON PATTERNS IN ARRAYS**
-**Traversal
-Two Pointers
-Sliding Window
-Prefix Sum
-Binary Search
-Hashing
-Sorting
+**Traversal,
+Two Pointers,
+Sliding Window,
+Prefix Sum,
+Binary Search,
+Hashing,
+Sorting,
 Greedy**
